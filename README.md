@@ -12,8 +12,8 @@ The approach it takes is basically clicking on every device on the first five pa
 For more details of the project check out the article I've published on it #link
 porfolio at #link
 
-One more thing worth noting is, In the jumiadata.py file, lines from 92 to 149 would actually be a good part to implement the python loop, for loop to be precise, which I have also written in a seperate file, it was only done this way given the few number of pages to be scraped, however if there were about a tens
+One more thing worth noting is, In the jumiadata.py file, lines from 99 to 156 would actually be a good part to implement the python loop, for loop to be precise, which I have also written in a seperate file, it was only done this way given the few number of pages to be scraped, however if there were about a tens
 of a bigger amount of pages to be scraped then the for loop which I ve also written as part this repo as "the for loop.py" should definitely
 be implemented otherwise
 
-The "the for loop.py" script is an associate of the jumiadata.py script just to show how else the entire line 92 to 149 of the jumiadata.py script could have been written. In essence, the entire lines 92 to 149 in the jumiadata.py can be comfortably replaced with lines 33 to 44 on the "the for loop.py".
+The "the for loop.py" script is an associate of the jumiadata.py script just to show how else the entire line 99 to 156 of the jumiadata.py script could have been written. In essence, the entire lines 99 to 156 in the jumiadata.py can be comfortably replaced with lines 33 to 44 on the "the for loop.py".
